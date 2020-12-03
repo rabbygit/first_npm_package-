@@ -6,7 +6,6 @@
     "repository": "rabbygit/first_npm_package-",
     "main": "index.js",
     "keywords": [
-        "tiny",
         "npm",
         "package",
         "rabby"
