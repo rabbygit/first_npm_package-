@@ -1,2 +1,26 @@
-# first_npm_package-
-First demo npm package
+# @bamblehorse/tiny
+
+[![npm (scoped)](https://img.shields.io/github/issues/rabbygit/first_npm_package-)](https://www.npmjs.com/package/rabbyhossain)
+[![npm bundle size (minified)](https://img.shields.io/github/stars/rabbygit/first_npm_package-)](https://www.npmjs.com/package/rabbyhossain)
+[![npm bundle size (minified)](https://img.shields.io/github/forks/rabbygit/first_npm_package-)](https://www.npmjs.com/package/rabbyhossain)
+
+Removes all spaces from a string.
+
+## Install
+
+```
+$ npm install rabbyhossain
+```
+
+## Usage
+
+```js
+const rabby_hossain = require("rabbyhossain");
+
+removeSpace("So much space!");
+//=> "Somuchspace!"
+
+removeSpace(1337);
+//=> Uncaught TypeError: Tiny wants a string!
+//    at tiny (<anonymous>:2:41)
+//    at <anonymous>:1:1
