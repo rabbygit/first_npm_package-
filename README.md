@@ -15,12 +15,12 @@ $ npm install rabbyhossain
 ## Usage
 
 ```js
-const rabby_hossain = require("rabbyhossain");
+const removeSpace = require("rabbyhossain");
 
 removeSpace("So much space!");
 //=> "Somuchspace!"
 
 removeSpace(1337);
-//=> Uncaught TypeError: Tiny wants a string!
+//=> Uncaught TypeError: It wants a string!
 //    at tiny (<anonymous>:2:41)
 //    at <anonymous>:1:1
