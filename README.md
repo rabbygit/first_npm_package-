@@ -1,4 +1,4 @@
-# @bamblehorse/tiny
+# @rabbyhossain
 
 [![npm (scoped)](https://img.shields.io/github/issues/rabbygit/first_npm_package-)](https://www.npmjs.com/package/rabbyhossain)
 [![npm bundle size (minified)](https://img.shields.io/github/stars/rabbygit/first_npm_package-)](https://www.npmjs.com/package/rabbyhossain)
